@@ -340,8 +340,8 @@
 
 
 ## Made by 
-- [Legend](https://github.com/thewhiteh4t)
-- [Repo](https://github.com/may215/awesome-termux-hacking)
+- [Meir Shamay](https://github.com/thewhiteh4t)
+- [Repository](https://github.com/may215/awesome-termux-hacking)
 
 ## Maintained by 
 - [Ayanokoji Kiyotaka](https://github.com/Itz-Ayanokoji)
