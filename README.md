@@ -340,7 +340,7 @@
 
 
 ## Made by 
-- [Meir Shamay](https://github.com/thewhiteh4t)
+- [Meir Shamay](https://github.com/may215)
 - [Repository](https://github.com/may215/awesome-termux-hacking)
 
 ## Maintained by 
